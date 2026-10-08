@@ -2,7 +2,7 @@
 
 A console math quiz game written in C++. You choose the difficulty and the type of operation, then answer a set of randomly generated questions.
 
-![Game screenshot](Images/screenshot.png)
+![Game screenshot](images/screenshot.png)
 
 ## Features
 

@@ -145,7 +145,7 @@ void CorrectTheQuestionAnswer(stQuiz &Quiz , short QuestionsNumber) {
 		Quiz.QuestionList[QuestionsNumber].RigthAnswer = true;
 		Quiz.NumberOfRightAnswers++;
 
-		cout << "Rigth Answer :-) \n";
+		cout << "Right Answer :-) \n";
 
 	}
 	cout << endl;
